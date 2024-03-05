@@ -5,11 +5,6 @@ This Streamlit-based application allows users to generate blog content using sta
 ## Getting Started
 ![Screenshot 2024-03-05 230801](https://github.com/Abrazaque/Blog-Generator-using-Llama2/assets/81006648/3453adbf-42ee-4496-ae88-f23bda08f4b8)
 
-![Screenshot 2024-03-05 230402](https://github.com/Abrazaque/Blog-Generator-using-Llama2/assets/81006648/a44a63c3-62c3-4ecb-881b-e6cb123b45a3)
-
-![3](https://github.com/Abrazaque/Blog-Generator-using-Llama2/assets/81006648/9ff5fe51-a1d9-4e2d-878d-b62d730be9b9)
-
-
 To use this application, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
@@ -43,8 +38,10 @@ To use this application, follow these steps:
 - View the generated blog content and download it as a text file using the provided button.
 
 ## Example
+![Screenshot 2024-03-05 230402](https://github.com/Abrazaque/Blog-Generator-using-Llama2/assets/81006648/a44a63c3-62c3-4ecb-881b-e6cb123b45a3)
 
-![Generate Blogs](screenshot.png)
+![3](https://github.com/Abrazaque/Blog-Generator-using-Llama2/assets/81006648/9ff5fe51-a1d9-4e2d-878d-b62d730be9b9)
+
 
 ## Note
 
